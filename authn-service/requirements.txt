@@ -5,7 +5,7 @@ click==7.1.2
 cryptography==3.3.2
 entrypoints==0.3
 Flask==1.1.2
-Flask-Cors==3.0.9
+Flask-Cors==3.0.10
 idna==2.10
 django-two-factor-auth==1.14.0
 itsdangerous==2.1.2
